@@ -1,3 +1,8 @@
+----
+This repository is **archived**. You can still fork it, but it isn't maintained anymore. 
+----
+
+
 `avl_tree` provides  an implementation of an [AVL Tree](http://en.wikipedia.org/wiki/AVL_tree),
 a self-balancing binary search-tree.
  
